@@ -177,6 +177,7 @@ const Login = () => {
     </View>
   );
 };
+
 export default Login;
 
 const styles = StyleSheet.create({
